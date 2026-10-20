@@ -50,8 +50,6 @@ const profile = {
 <div align="center">
   <!-- Ganti zakibn18 dengan username asli Anda -->
   <img src="https://raw.githubusercontent.com/zakibn18/zakibn18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  *Catatan: Animasi ular ini memerlukan setup GitHub Actions agar bisa berjalan.*
 </div>
 
 <br>
